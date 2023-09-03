@@ -1,0 +1,10 @@
+typing
+pydantic
+fastapi
+requests
+openpyxl
+tqdm==4.65.0
+webdriver-manager==3.8.5
+undetected-chromedriver==3.4.6
+lxml==4.9.2
+markdownify==0.11.6
